@@ -80,7 +80,7 @@ MEMORY_CHECK_INTERVAL_SEC = 15
 UPI_ID = ""
 PAYMENT_QR_IMAGE_URL = ''
 
-BRAND_NAME = "KARU 🔥 HOSTING"
+BRAND_NAME = "Mikey 🔥 HOSTING"
 
 os.makedirs(UPLOAD_BOTS_DIR, exist_ok=True)
 os.makedirs(IROTECH_DIR, exist_ok=True)
